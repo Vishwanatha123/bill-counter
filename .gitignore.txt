@@ -1,0 +1,14 @@
+# React / Node
+node_modules/
+build/
+.env
+
+# Java / Spring Boot
+*.class
+*.jar
+*.war
+target/
+
+# OS files
+.DS_Store
+Thumbs.db
